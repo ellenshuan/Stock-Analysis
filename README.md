@@ -15,6 +15,7 @@ Original Script for 2018:
 ![](./Resources/2018_before_ refactor.png)
 
 Refactored Script for 2017:
+
 ![](./Resources/VBA_Challenge_2017.png)
 
 Refactored Script for 2018:
