@@ -9,10 +9,10 @@ After evaulating the data, I found out that the stock returns for 2017 in genera
 
 ### Images for Run Time 
 Original Script for 2017:
-![](./Resources/2017_before_ refactor.png)
+![](./Resources/2017_beforerefactor.png)
 
 Original Script for 2018:
-![](./Resources/2018_before_ refactor.png)
+![](./Resources/2018_beforerefactor.png)
 
 Refactored Script for 2017:
 
